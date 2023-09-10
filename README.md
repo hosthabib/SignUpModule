@@ -65,7 +65,7 @@ Installation
 
 3.Install project dependencies:=>npm install
 
-	"bcrypt": "^5.1.1",
+		"bcrypt": "^5.1.1",
     	"express": "^4.18.2",
     	"express-validator": "^7.0.1",
     	"mysql": "^2.18.1",
