@@ -59,7 +59,7 @@ Node.js
 MySQL
 
 Installation
-1.Clone the project repository:=>git clone https://github.com/your-username/your-repo.git
+1.Clone the project repository:=>git clone https://github.com/hosthabib/SignUpModule.git
 
 2.Navigate to the project directory=>cd your-repo
 
